@@ -45,7 +45,7 @@ Computer science graduate specializing in Python full-stack development and UI d
               <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/photoshop-colored.svg" alt="Photoshop" />
               </picture></a> &nbsp;
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><picture>
-              <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" />
+              <img height="36" width="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/512px-Adobe_Premiere_Pro_CC_icon.svg.png?20210729021549" alt="Premiere Pro" />
               </picture></a> &nbsp;
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><picture>
               <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/figma-colored.svg" alt="Figma" />
