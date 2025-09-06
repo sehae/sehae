@@ -1,4 +1,4 @@
-## Hi, I'm Leah Villatura <img src="https://github.com/user-attachments/assets/8eab4658-41d2-44b3-9f89-5468f91f60d6" width="30"/>
+## Hi, I'm Leah <img src="https://github.com/user-attachments/assets/8eab4658-41d2-44b3-9f89-5468f91f60d6" width="30"/>
 
 *Jr. Full Stack Software Engineer*
 
